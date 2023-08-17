@@ -5,7 +5,7 @@ Initialize node and install webpack (Required) <br />
 1. Run 'npm init' in console and it should create a package.json <br />
 2. Run 'npm install webpack webpack-cli --save-dev' <br />
 <br />
-Intall style loaders, copy paste webpack configurations, copy paste gitignore (Required) <br />
+Install style loaders, copy paste webpack configurations, copy paste gitignore (Required) <br />
 3. Run 'npm install --save-dev style-loader css-loader' to enable CSS, images, and fonts to load <br />
 4. Copy paste 'dist' folder, 'src' folder <br />
 5. Copy paste 'webpack.config.js' <br />
@@ -22,8 +22,8 @@ Prettier (Optional/Recommended) <br />
 <br />
 If running ESLint and Prettier together <br />
 12. Run 'npm install --save-dev eslint-config-prettier' <br />
-13. Add 'prettier' to '.eslint.js' under extends <br />
+13. Add 'prettier' to '.eslint.js' under extends <br /><br /><br /><br />
     Make sure it is an array, it should look like this:   extends: [ 'airbnb-base', 'prettier' ], <br />
 <br />
-If you want o publish to git pages while using webpack in project <br />
+If you want to publish to git pages while using webpack in project <br />
 14. https://gist.github.com/cobyism/4730490 <br />
