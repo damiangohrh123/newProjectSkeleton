@@ -1,0 +1,21 @@
+{
+  "singleQuote": true,
+  "ignore": [
+    "build/",
+    "dist/",
+    "out/",
+    "node_modules/",
+    ".git/",
+    ".svn/",
+    ".vscode/",
+    ".idea/",
+    "*.bak",
+    "*.tmp",
+    "config.json",
+    "settings.json",
+    "generated/",
+    "assets/",
+    "test/",
+    "docs/"
+  ]
+}
