@@ -22,7 +22,7 @@ Prettier (Optional/Recommended) <br />
 <br />
 If running ESLint and Prettier together <br />
 12. Run 'npm install --save-dev eslint-config-prettier' <br />
-13. Add 'prettier' to '.eslint.js' under extends <br /><br /><br /><br />
+13. Add 'prettier' to '.eslint.js' under extends <br />
     Make sure it is an array, it should look like this:   extends: [ 'airbnb-base', 'prettier' ], <br />
 <br />
 If you want to publish to git pages while using webpack in project <br />
