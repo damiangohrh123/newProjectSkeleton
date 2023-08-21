@@ -13,7 +13,7 @@ Install style loaders, copy paste webpack configurations, copy paste gitignore (
 <br />
 ESLint (Optional/Recommended) <br />
 7. Run 'npm init @eslint/config' to install ESLint. Go through steps. Choose Airbnb style for now <br />
-8. Go to .eslint.js. Under rules, paste this code:  no-plusplus': 'off', <br />
+8. Go to .eslint.js. Under rules, paste this code:  'no-plusplus': 'off', <br />
 9. Copy paste '.eslintignore' file <br />
 <br />
 Prettier (Optional/Recommended) <br />
